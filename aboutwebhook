@@ -6,4 +6,5 @@
 -A webhook is an HTTP callback, an HTTP POST that occurs when something happens through a simple event-notification via HTTP POST.
 -GitHub webhooks in Jenkins are used to trigger the build whenever a developer commits something to the master/main branch.
 
-[A[A[
+[A[A[applying new changes into webhook
+A webhook is a lightweight API that powers one-way data sharing triggered by events. Together, they enable applications to share data and functionality, and turn the web into something greater than the sum of its parts. APIs and webhooks both allow different software systems to sync up and share information.
